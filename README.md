@@ -12,7 +12,7 @@ Added a new forest called mydomain.com
 Added a new Organizational Unit called Admins
 ![image](https://github.com/WarRoc22/Active-Directory-Lab/assets/148729293/e9fb4d8d-35a8-4761-a904-1f20b0af3895)
 
-Added a new users in the Admin OU
+Added a new user in the Admin OU
 ![Maually adding New users in AD](https://github.com/WarRoc22/Active-Directory-Lab/assets/148729293/ec85bd79-41c7-40a7-a581-41f7223f29de)
 
 Went to Add Roles and Features and added Remote Access and Routing. Then I configured NAT.
